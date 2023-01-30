@@ -28,7 +28,7 @@ header{
 .logo{
     height: 40%;
     margin-top: 3%;
-    
+    margin-left: 1%;
 }
 /* /logo config */
 
@@ -81,3 +81,33 @@ td{
 .cyan-row{
     background-color: cyan;;
 }
+
+/* /Table setting */
+
+.related{
+    color: rgba(0,0,0,0.7);
+}
+
+/* Bottom images */
+footer{
+    height: 100px;
+    width: 100%;
+}
+
+.bottom-image1{
+    background-image: url(../img/monitor.jpg);
+    width: 10%;
+    height: 100%;
+    background-size: contain;
+    margin-bottom: 5px;
+}
+
+.bottom-image2{
+    background-image: url(../img/graph.jpg);
+    width: 10%;
+    height: 100%;
+    background-size: contain;
+}
+
+
+/* /Bottom images */
