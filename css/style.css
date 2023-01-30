@@ -1,14 +1,18 @@
+
+/* body config */
 body{
     margin: 0;
     box-sizing: border-box;
-    padding: 0;
+    padding: 0;   
 }
 
+/* header config */
 header{
     height: 100px;
     width: 100%;
 }
 
+/* logo with background image config */
 .page-top{
     width: 100%;
     height: 100%;
@@ -17,10 +21,12 @@ header{
     background-size: contain;
 }    
 
+/* logo config */
 .logo{
     height: 50%;
     margin-top: 3%;
 }
+
 
 main{
     margin-left: 1%;
@@ -38,4 +44,9 @@ main{
 
 #booleaner{
     color: rgb(0, 225, 255);
+}
+
+.info-photo{
+    font-size: smaller;
+    margin: 0;
 }
