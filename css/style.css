@@ -21,3 +21,21 @@ header{
     height: 50%;
     margin-top: 3%;
 }
+
+main{
+    margin-left: 1%;
+}
+
+
+#title{
+    margin-bottom: 0;
+}
+
+.transparent{
+    margin: 0;
+    color: rgba(0,0,0,0.7);
+}
+
+#booleaner{
+    color: rgb(0, 225, 255);
+}
